@@ -1,0 +1,1 @@
+console.log("configuracion inicial del proyecto");
